@@ -30,8 +30,7 @@ A simple Streamlit app that lets you chat with content from any URL by loading t
 
 1. **Clone the Repository**
 ```
-cd <your-repository-folder>
-git clone https://github.com/Abhishek3689/Multiple_Source_Chat_RAG_Langhcain.git
+git clone https://github.com/Abhishek3689/Chat_with_Webpage.git
 ```
 
 2. **Install Dependencies**
@@ -44,5 +43,5 @@ pip install -r requirements.txt
 
 4. ** Run The Application **
 ```
-streamlit run app.py
+streamlit run web_chat.py
 ```
