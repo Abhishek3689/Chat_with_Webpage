@@ -1,0 +1,2 @@
+use chain.stream instead f chain.inovke 
+then use st.write_stream for gettig streamed sresposne  
