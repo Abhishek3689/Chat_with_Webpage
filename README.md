@@ -4,7 +4,7 @@ A simple Streamlit app that lets you chat with content from any URL by loading t
 
 ---
 
-## 🚀 Features
+## 🚀Features
 
 - Enter any public URL (e.g., news article, blog post)
 - App loads and processes the content
