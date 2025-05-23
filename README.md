@@ -41,7 +41,7 @@ pip install -r requirements.txt
 - Add API keys in .env file for the LLM if required (e.g., OpenAI API Key)
 - Add Groq Api keys if using Groq inference.
 
-4. ** Run The Application **
+4. **Run The Application**
 ```
 streamlit run web_chat.py
 ```
